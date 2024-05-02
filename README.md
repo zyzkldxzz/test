@@ -1,1 +1,1 @@
-A small exercise project when learning NodeJS, about accounting books
+记账本案例。使用nodeJS
